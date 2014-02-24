@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+ <title>Demo Webpage</title>
+ </head>
+
+<header>
+ <h1 style="color:blue; font-size:2em; font-family:Times New Roman">Github Page 1</h1>
+ </header>
+ 
+<body>
+ <p style="color:red; font-size:15px; font-family:arial" >Assignment part 1.</p>
+ </body>
+ 
+</html>
